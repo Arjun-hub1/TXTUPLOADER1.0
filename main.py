@@ -26,8 +26,8 @@ from subprocess import getstatusoutput
 
 bot = Client("bot",
              bot_token= "6946359667:AAEUE6wpdPmY5qCHdzvedwzl015Vkz9sYVM",
-             api_id= 23291931,
-             api_hash= "4b11dd648188731fb7c9bc8083e8791c"
+             api_id= 23680771,
+             api_hash= "0c58f3e3fecefc4a9d8e5bcf6968a106"
 )
 
 @bot.on_message(filters.command(["start"]))
